@@ -1,0 +1,1 @@
+Implemented and evaluated fine-tuning techniques for GPT-2 on software requirements and code, enabling generation of diverse and realistic test cases. This research contributed to the field of NLP-driven testing and demonstrated my expertise in advanced language models.
